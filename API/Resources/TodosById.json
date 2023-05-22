@@ -1,0 +1,19 @@
+{
+    "data": {
+        "user": {
+            "id": "918CAB82-3F20-4D9D-90D0-D8EA922E73B0",
+            "todos": [
+                {
+                    "id": "C6CB3E00-4E99-488B-8F44-8028CF0E66D4",
+                    "description": "Get groceries after work",
+                    "done": true
+                },
+                {
+                    "id": "04D152B7-724F-426E-9305-FA696E6D5974",
+                    "description": "Do amazing things!",
+                    "done": false
+                }
+            ]
+        }
+    }
+}
